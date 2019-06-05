@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhpOnlineDatabase</string>
+    <string name="enter_the_name">enter_the_name</string>
+    <string name="enter_the_email">enter_the_email</string>
+    <string name="enter_the_contact_number">enter_the_contact_number</string>
+    <string name="enter_the_password">enter_the_password</string>
+    <string name="insert_data">insert_data</string>
+</resources>
